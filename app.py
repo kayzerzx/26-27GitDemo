@@ -3,3 +3,4 @@ print("This was edited through github.com")
 #Resolved these lines the merge editor
 print("I edited this line remotely")
 print("I edited this line locally")
+print("added on first branch")
